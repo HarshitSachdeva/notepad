@@ -22,7 +22,7 @@ import javax.swing.JTextArea;
 import javax.swing.KeyStroke;
 
 
-public class Notepad implements ActionListener{
+public class Notepad implements ActionListener {
     
     Font f=new Font("Arial",Font.PLAIN,20);
     
